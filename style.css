@@ -228,7 +228,7 @@ h1, h2{
   margin-left: 1rem;
 }
 
-#ENfoodparagraph, #ENgameparagraph, #ENplayerparagraph, #ENbookparagraph, #ENauthorparagraph{
+#ENfoodparagraph, #ENgameparagraph, #ENplayerparagraph, #ENbookparagraph, #ENauthorparagraph, #ENfavparagraph, #ENresparagraph, #ENglossparagraph{
     margin-left: 2rem;
     line-height: 2rem;
     text-align: justify;
